@@ -1,4 +1,4 @@
-public class MultiplyTwoNumbers {
+public class sahil {
 
     public static void main(String[] args) {
 
